@@ -13,8 +13,7 @@
     <scope>provided</scope>
 </dependency>   
     </dependencies> -->
-    <sourceDirectory>src</sourceDirectory>
-   
+    <sourceDirectory>src</sourceDirectory> 
     
     <plugins>
       <plugin>
